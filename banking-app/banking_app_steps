@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# Author: Chike
+# Description: Banking Application
+# Date created: 13th October 2025
+# Date modified: 14th October 2025
+# Purpose: Step by step of a chinove bank applcation
+
+
+echo Welcome to chinova bank
+echo How may we help you?
+echo your balance is: 
+echo 500
+echo i want to make a witdrawal of 150
+echo here is you 150
+echo balance "$((500 - 150))"
+echo thanks for banking with us.
+
+
+
+
+
+
+ 
