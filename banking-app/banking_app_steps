@@ -8,7 +8,7 @@
 
 
 echo Welcome to chinova bank
-echo How may we help you?
+echo How may we help you
 echo your balance is: 
 echo 500
 echo i want to make a witdrawal of 150
