@@ -17,7 +17,7 @@ echo balance "$((500 - 150))"
 echo thanks for banking with us.
 echo deposit of 650 completed
 echo can i know my balance
-echo balane is 1000
+echo Balance is 1000
 echo i am making a withdrawal of 400
 echo processing
 echo here is your 400
